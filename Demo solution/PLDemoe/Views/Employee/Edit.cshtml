@@ -1,0 +1,21 @@
+﻿@model EmployeeViewModel
+@{
+	ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Employee</h1>
+
+<br />
+
+<form asp-action="Edit" enctype="multipart/form-data">
+	<div asp-validation-summary="All"></div> @*List The Error Messages from ErrorModel*@
+	<partial name="PartialView/CreateEditEmployeePartialView" />
+	<input type="submit" value="Save" class="btn btn-primary" /> |
+	<a asp-controller="Employee" asp-action="Index" class="btn btn-light">Back To List</a>
+</form>
+
+@section ValidationScriptSection
+{
+	<partial name="_ValidationScriptsPartial" />
+}
+

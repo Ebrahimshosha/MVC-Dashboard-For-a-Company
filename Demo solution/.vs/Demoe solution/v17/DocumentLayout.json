@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14022767-F5EB-46F9-A69C-F6F5B556D87D}|BLLDemo\\BLLDemo.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\blldemo\\reposatories\\employeeropository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14022767-F5EB-46F9-A69C-F6F5B556D87D}|BLLDemo\\BLLDemo.csproj|solutionrelative:blldemo\\reposatories\\employeeropository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\helpers\\documentsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\helpers\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\pldemoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325CB309-BD01-4987-9FB6-76B21C55AA26}|PLDemoe\\PLDemoe.csproj|solutionrelative:pldemoe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCC2AF9E-F8F4-40F8-AFD2-D6B61CADFE62}|DALDemo\\DALDemo.csproj|e:\\route\\back-end\\7 asp.net mvc\\demoes\\session 3\u00264\\demoe solution\\daldemo\\contexts\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC2AF9E-F8F4-40F8-AFD2-D6B61CADFE62}|DALDemo\\DALDemo.csproj|solutionrelative:daldemo\\contexts\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeRopository.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\BLLDemo\\Reposatories\\EmployeeRopository.cs",
+              "RelativeDocumentMoniker": "BLLDemo\\Reposatories\\EmployeeRopository.cs",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\BLLDemo\\Reposatories\\EmployeeRopository.cs",
+              "RelativeToolTip": "BLLDemo\\Reposatories\\EmployeeRopository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:34:32.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentSettings.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Helpers\\DocumentSettings.cs",
+              "RelativeDocumentMoniker": "PLDemoe\\Helpers\\DocumentSettings.cs",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Helpers\\DocumentSettings.cs",
+              "RelativeToolTip": "PLDemoe\\Helpers\\DocumentSettings.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:12:12.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PLDemoe\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PLDemoe\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAIAxwIcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T09:10:33.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PLDemoe\\Views\\User\\Delete.cshtml",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "PLDemoe\\Views\\User\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T21:02:32.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\appsettings.json",
+              "RelativeDocumentMoniker": "PLDemoe\\appsettings.json",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\appsettings.json",
+              "RelativeToolTip": "PLDemoe\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-17T16:50:57.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "PLDemoe\\Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "PLDemoe\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-17T15:15:56.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "PLDemoe\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Controllers\\UserController.cs",
+              "RelativeToolTip": "PLDemoe\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T14:50:36.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Helpers\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "PLDemoe\\Helpers\\EmailSettings.cs",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Helpers\\EmailSettings.cs",
+              "RelativeToolTip": "PLDemoe\\Helpers\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T10:13:33.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Startup.cs",
+              "RelativeDocumentMoniker": "PLDemoe\\Startup.cs",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Startup.cs",
+              "RelativeToolTip": "PLDemoe\\Startup.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T18:07:02.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Program.cs",
+              "RelativeDocumentMoniker": "PLDemoe\\Program.cs",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Program.cs",
+              "RelativeToolTip": "PLDemoe\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T18:06:46.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PLDemoe\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PLDemoe\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAG4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T16:31:32.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MVCdbcontext.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\DALDemo\\Contexts\\MVCdbcontext.cs",
+              "RelativeDocumentMoniker": "DALDemo\\Contexts\\MVCdbcontext.cs",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\DALDemo\\Contexts\\MVCdbcontext.cs",
+              "RelativeToolTip": "DALDemo\\Contexts\\MVCdbcontext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T12:31:44.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "PLDemoe\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\Route\\Back-end\\7 ASP.NET MVC\\Demoes\\Session 3\u00264\\Demoe solution\\PLDemoe\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "PLDemoe\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAYwEUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-01T20:15:24.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
